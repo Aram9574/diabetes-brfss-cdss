@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/X_train_resampled.csv
+data/X_test_scaled.csv
+data/X_test.csv
+data/y_test.csv
+data/y_train_resampled.csv
+.ipynb_checkpoints/
